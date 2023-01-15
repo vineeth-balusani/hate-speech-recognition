@@ -1,1 +1,1 @@
-# hate-speech-recognition
+# HateSpeechRecognition
